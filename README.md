@@ -18,3 +18,6 @@ DeactivateLicenseResponse dlr = new LemonDeactivateLicenseRequest()
     .setLicenseKey("my-license-key")
     .send();
 ```
+
+## Getting it
+https://jitpack.io/#Casterlabs/LemonApiJava
